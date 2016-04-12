@@ -1,6 +1,6 @@
 # NLP Workshops
 Introduction and tutorial about Natural Language Processing.
-This is meant to be presented at the Data For Good meetup, it will be extended over time.
+This is meant to be presented at the [Data For Good](http://www.dataforgood.fr/) NLP workshops, it will be extended over time.
 
 ##Requirements
 
