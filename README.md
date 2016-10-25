@@ -32,6 +32,11 @@ python -c 'import nltk; nltk.download()'
 
 In the Models tab of the downloader interface, install Average Perceptron Tagger, Punkt Tokenizer Models and Snowball Data.
 
+**POS Tagger**
+
+Download stanford POS tagger models here: http://nlp.stanford.edu/software/stanford-postagger-full-2014-08-27.zip
+Unzip the archive and copy the related directory into the data directory.
+
 ## Load the notebook
 
 Go to the notebook directory and run:
